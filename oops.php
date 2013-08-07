@@ -15,7 +15,7 @@
     function __construct($a,$b){
     $c = $a +$b ;
  
-      echo $a, '+', $b ,'=', $c; 
+      echo $a, '+', $b ,'=', $c; .'<br>'; 
     }
   } 
 
